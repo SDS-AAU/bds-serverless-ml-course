@@ -12,7 +12,7 @@
 # First, you need to install the hopsworks library.
 
 # %%
-#!pip install -U hopsworks --quiet
+# !pip install -U hopsworks --quiet
 
 # %% [markdown]
 # ## <span style="color:#ff5f27;"> 💽 Loading the Data </span>
@@ -205,8 +205,5 @@ for desc in feature_descriptions:
 # ## <span style="color:#ff5f27;">⏭️ **Next:** Synthetic Data Feature Pipeline </span>
 # 
 # In the following notebook you will use create synthetic data that will be used to create features that are written to the  feature groups you created here.
-
-# %%
-
 
 
